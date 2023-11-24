@@ -1,0 +1,14 @@
+/* .dark {
+    --main-color: #4a8f96;
+    --bg-color: #ffffff;}
+
+:root {
+    --main-color: #838112;
+    --bg-color: #333333;}
+
+
+body {
+    background-color: var(--bg-color);
+    color: var(--main-color);
+    transition: 0.56s;
+    background-color: white;} */

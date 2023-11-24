@@ -1,0 +1,10 @@
+table{
+    border: 2px solid #523838;
+    width: 300px;
+    height: 300px;
+    
+}
+
+td,th{
+    border: 2px solid rgb(81, 199, 171);
+}
